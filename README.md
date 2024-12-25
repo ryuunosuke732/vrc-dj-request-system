@@ -1,6 +1,6 @@
 # VRC DJ request system with cooldown.
-https://github.com/ryushunosuke/vrc-dj-request-system/assets/48852421/05538201-8470-48a3-a29f-3432cc80f82b
 
+https://github.com/user-attachments/assets/178c53d5-37da-4287-bebb-1fcf28bf969f
 
 # Requirements
 - Udon Sharp
